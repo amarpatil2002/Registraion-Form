@@ -1,0 +1,15 @@
+.main-container{
+    margin-top: 120px;   
+}
+
+.main-form{
+    padding: 30px;
+    border: 1px sold gray;
+    box-shadow: 5px 4px 11px;
+    border-radius: 7px;
+}
+
+.login-btn{
+    width: 100%;
+    margin: 30px 0px;
+}
